@@ -26,11 +26,11 @@
 
 ```yaml
 # config.yml 示例
-free-mode: false
-current-server: "lobby"
+free-mode: false //设置为true则为免费模式
+current-server: "lobby" //填写当前服务器名称
 
 servers:
-  lobby:
+  lobby:      //填写服务器名称
     cost: 0
   survival:
     cost: 50
