@@ -1,0 +1,10 @@
+name: CSword
+version: 1.0
+main: com.example.chuansong.CSword
+api-version: 1.21
+commands:
+  cs:
+    description: 传送至其他服务器（首次扣款）或重载配置
+    usage: |
+      /cs [服务器名称]
+      /cs reload
