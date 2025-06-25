@@ -36,3 +36,10 @@ servers:
     cost: 50
   skyblock:
     cost: 100
+```
+
+## 命令用法
+命令	描述	权限
+/cs	显示可用服务器列表	无
+/cs <服务器名>	传送到指定服务器	无
+/cs reload	重载插件配置	csword.reload
